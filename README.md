@@ -1,2 +1,3 @@
-# JavaProject
-JAVA
+# Context-Aware-SmartBus-Java
+
+Open it in Intellij as a project, for avoiding unwanted hurdles...
